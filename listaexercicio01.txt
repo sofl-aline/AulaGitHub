@@ -4,3 +4,7 @@ questão03
 
 questão05
 questão06
+
+questão07
+questão08
+questão09
